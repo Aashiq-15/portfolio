@@ -646,6 +646,7 @@ header .navbar ul li a:hover {
 .work {
   /* background: #010124; */
   background: linear-gradient(to bottom, #000031, #00002c);
+  height: 70vh;
   
 }
 .work h2 {
@@ -667,10 +668,10 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: 25rem;
+  height: 30rem;
 }
 .work .box-container .box img {
-  height: 80%;
+  height: 100%;
   width: 100%;
   object-fit: cover;
 }
