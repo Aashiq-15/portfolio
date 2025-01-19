@@ -537,7 +537,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #f0f0f0;
+  background: #fcf7f7;
   min-height: 80vh;
 }
 .education .qoute {
@@ -646,7 +646,7 @@ header .navbar ul li a:hover {
 .work {
   /* background: #010124; */
   background: linear-gradient(to bottom, #000031, #00002c);
-  min-height: 80vh;
+  min-height: 60vh;
   
 }
 .work h2 {
